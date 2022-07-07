@@ -4,7 +4,7 @@ import register_teather
 import teather_func
 
 
-main_key = register_students.choice()
+main_key = register_students.choice()#Проверка внесения изменений
 if main_key == '1':
     register_teather.prepod()
     register_teather.password()
